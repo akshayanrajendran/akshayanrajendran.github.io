@@ -7,7 +7,7 @@
 main: 
   - title: "CV"
     #url: /cv/
-    url: /files/WebsiteResume(1).pdf
+    url: /files/WebsiteResume.pdf
 
   - title: "About me"
     url: /portfolio/
