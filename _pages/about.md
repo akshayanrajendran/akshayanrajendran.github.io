@@ -11,7 +11,6 @@ carousels:
     - image: /images/akshayanspic2.jpg
     - image: /uploads/slider/image3.jpg
     - image: /uploads/slider/image4.jpg
-  - images: 
     - image: /uploads/slider/image5.jpg
     - image: /uploads/slider/image6.jpg
     - image: /uploads/slider/image7.jpg
@@ -27,14 +26,10 @@ carousels:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-## My Carousels
+## Some Photos :D (attempt to document stuff)
 
   {% include carousel.html height="50 unit=%"
 duration="7" number="1" %}
   {% include carousel.html height="50" unit="%" 
 duration="7" number="2" %}
 
-![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
-
-![akshayanspic2](/images/akshayanspic2.jpg)
-{:align-right width="10px"}
