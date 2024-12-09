@@ -16,7 +16,7 @@ redirect_from:
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
 <div id="slideshow">
-    <img src="http://placehold.it/300x200&text=foo1.jpg" alt="Image 1">
+    <img src=/images/akshayanspic1.jpg alt="Image 1">
     <img src="http://placehold.it/300x200&text=foo2.jpg" alt="Image 2" style="display: none;">
     <img src="http://placehold.it/300x200&text=foo3.jpg" alt="Image 3" style="display: none;">
     <img src="http://placehold.it/300x200&text=foo4.jpg" alt="Image 4" style="display: none;">
