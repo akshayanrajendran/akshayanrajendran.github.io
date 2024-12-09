@@ -18,4 +18,4 @@ redirect_from:
 ![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="200px"}
 
 ![akshayanspic2](/images/akshayanspic2.jpg)
-{:align-bottom-right width="10px"}
+{:align-bottom-right width="1px"}
