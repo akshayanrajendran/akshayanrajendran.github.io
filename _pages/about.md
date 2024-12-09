@@ -5,9 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 ---
 
 👨‍💻 I'm a Computer Engineering Freshman at Toronto Metropolitan University, Canada
@@ -17,6 +14,10 @@ redirect_from:
 🎵 I am also a Indian classical carnatic percussionist and a national level quizzer.
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 carousels:
   - images: 
