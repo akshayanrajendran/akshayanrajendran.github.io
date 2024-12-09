@@ -26,6 +26,10 @@ carousels:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
+
+
+
+
 ## Some Photos :D (attempt to document stuff)
 
 
