@@ -9,8 +9,8 @@ main:
     #url: /cv/
     url: /files/CV.pdf
 
-  - title: "About me"
-    url: /portfolio/
+  - #title: "About me"
+    #url: /portfolio/
         
   - #title: "Blog Posts"
     #url: /year-archive/
