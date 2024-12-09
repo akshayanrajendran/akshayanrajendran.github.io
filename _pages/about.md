@@ -15,6 +15,48 @@ redirect_from:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Slideshow</title>
+    <style>
+        #slideshow img {
+            width: 300px; /* Set the width of the images */
+            height: 200px; /* Set the height of the images */
+            display: none; /* Hide all images by default */
+        }
+        #slideshow img:first-child {
+            display: block; /* Show the first image */
+        }
+    </style>
+</head>
+<body>
+    <div id="slideshow">
+        <img src="http://placehold.it/300x200&text=foo1.jpg" alt="Image 1">
+        <img src="http://placehold.it/300x200&text=foo2.jpg" alt="Image 2">
+        <img src="http://placehold.it/300x200&text=foo3.jpg" alt="Image 3">
+        <img src="http://placehold.it/300x200&text=foo4.jpg" alt="Image 4">
+        <img src="http://placehold.it/300x200&text=foo5.jpg" alt="Image 5">
+    </div>
+
+    <script>
+        var slideshow = document.getElementById('slideshow');
+        var slides = slideshow.getElementsByTagName('img');
+        var idx = 0;
+
+        function changeSlide() {
+            slides[idx].style.display = 'none'; // Hide current slide
+            idx = (idx + 1) % slides.length; // Move to the next slide
+            slides[idx].style.display = 'block'; // Show next slide
+        }
+
+        setInterval(changeSlide, 3000); // Change slide every 3 seconds
+    </script>
+</body>
+</html>
+
 ![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
 
 ![akshayanspic2](/images/akshayanspic2.jpg)
