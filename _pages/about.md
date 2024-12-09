@@ -15,27 +15,14 @@ redirect_from:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-<div id="slideshow">
-    <img src=/images/akshayanspic1.jpg alt="Image 1">
-    <img src="http://placehold.it/300x200&text=foo2.jpg" alt="Image 2" style="display: none;">
-    <img src="http://placehold.it/300x200&text=foo3.jpg" alt="Image 3" style="display: none;">
-    <img src="http://placehold.it/300x200&text=foo4.jpg" alt="Image 4" style="display: none;">
-    <img src="http://placehold.it/300x200&text=foo5.jpg" alt="Image 5" style="display: none;">
-</div>
+title: My Slideshow
+slideShow:
+  - /images/akshayanspic1.jpg
+  - /images/akshayanspic2.jpg
+  - /assets/images/image3.jpg
 
-<script>
-    var slideshow = document.getElementById('slideshow');
-    var slides = slideshow.getElementsByTagName('img');
-    var idx = 0;
+  {% include slideShow.html images=page.slideShow %}
 
-    function changeSlide() {
-        slides[idx].style.display = 'none'; // Hide current slide
-        idx = (idx + 1) % slides.length; // Move to the next slide
-        slides[idx].style.display = 'block'; // Show next slide
-    }
-
-    setInterval(changeSlide, 3000); // Change slide every 3 seconds
-</script>
 
 ![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
 
