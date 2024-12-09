@@ -1,16 +1,11 @@
 ---
-layout:
 permalink: /
 title: "Hello there, I'm Akshayan!👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-slideShow:
-  - /images/akshayanspic1.jpg
-  - /images/akshayanspic2.jpg
-  - /assets/images/image3.jpg
----  
+---
 
 👨‍💻 I'm a Computer Engineering Freshman at Toronto Metropolitan University, Canada
 
@@ -20,7 +15,7 @@ slideShow:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-## My Images
+![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
 
- {% include slideShow.html 
-images=page.slideShow %}
+![akshayanspic2](/images/akshayanspic2.jpg)
+{:align-right width="10px"}
