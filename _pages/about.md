@@ -13,12 +13,12 @@ carousels:
   - images: 
     - image: /images/akshayanspic1.jpg
     - image: /images/akshayanspic2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-    - image: /uploads/slider/image5.jpg
-    - image: /uploads/slider/image6.jpg
-    - image: /uploads/slider/image7.jpg
-    - image: /uploads/slider/image8.jpg
+    - #image: /uploads/slider/image3.jpg
+    - #image: /uploads/slider/image4.jpg
+    - #image: /uploads/slider/image5.jpg
+    - #image: /uploads/slider/image6.jpg
+    - #image: /uploads/slider/image7.jpg
+    - #image: /uploads/slider/image8.jpg
 
 ---
 
