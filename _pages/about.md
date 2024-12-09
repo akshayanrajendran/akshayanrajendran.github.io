@@ -17,9 +17,9 @@ redirect_from:
 
 title: 
 slideShow:
-  - ![akshayanspic1](/images/akshayanspic1.jpg)
-  - ![akshayanspic2](/images/akshayanspic2.jpg)
-  - /assets/images/image3.jpg
+   ![akshayanspic1](/images/akshayanspic1.jpg)
+   ![akshayanspic2](/images/akshayanspic2.jpg)
+   /assets/images/image3.jpg
 
   {% include slideShow.html images=page.slideShow %}
 
