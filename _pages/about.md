@@ -15,16 +15,16 @@ redirect_from:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-title: My Slideshow
+title: 
 slideShow:
-  - /images/akshayanspic1.jpg
-  - /images/akshayanspic2.jpg
+  - ![akshayanspic1](/images/akshayanspic1.jpg)
+  - ![akshayanspic2](/images/akshayanspic2.jpg)
   - /assets/images/image3.jpg
 
   {% include slideShow.html images=page.slideShow %}
 
 
-![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
+!{:align-bottom width="300px"}
 
 ![akshayanspic2](/images/akshayanspic2.jpg)
 {:align-right width="10px"}
