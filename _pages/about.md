@@ -15,7 +15,7 @@ redirect_from:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="300px"}
+![akshayanspic1](/images/akshayanspic1.jpg){:align-bottom width="200px"}
 
 ![akshayanspic2](/images/akshayanspic2.jpg)
-{:align-bottom-right width="100px"}
+{:align-bottom-right width="10px"}
