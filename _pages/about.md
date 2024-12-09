@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
   slideShow:
-   ![akshayanspic1](/images/akshayanspic1.jpg)
-   ![akshayanspic2](/images/akshayanspic2.jpg)
-   /assets/images/image3.jpg
+   -![akshayanspic1](/images/akshayanspic1.jpg)
+   -[akshayanspic2](/images/akshayanspic2.jpg)
+   -/assets/images/image3.jpg
 ---
 
 👨‍💻 I'm a Computer Engineering Freshman at Toronto Metropolitan University, Canada
@@ -19,12 +19,8 @@ redirect_from:
 
 ⚙️ As a creative and determined individual, I like to explore and learn more in the domain of science and technology.
 
-
+## My Images
    {% include slideShow.html 
   images=page.slideShow %}
 
 
-!{:align-bottom width="300px"}
-
-![akshayanspic2](/images/akshayanspic2.jpg)
-{:align-right width="10px"}
