@@ -25,14 +25,11 @@ carousels:
 👨‍💻 I am a Computer Engineering freshman at Toronto Metropolitan University in Canada
 
 
-🚀 I have a keen interest in CS, AI, and     
-    Aerospace, aspiring to do research in these sectors in the future.
+🚀 I have a keen interest in CS, AI, and Aerospace, aspiring to do research in these sectors in the future.
 
-🎵 I am also an classical carnatic          
-    percussionist (indian music) and a national level quizzer.
+🎵 I am also an classical carnatic percussionist (indian music) and a national level quizzer.
 
-⚙️ As a creative and determined individual, I am    
-    committed to explore and learn more in the domain of science and technology.
+⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
 
 
 
