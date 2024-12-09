@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout:
 permalink: /
 title: "Hello there, I'm Akshayan!👋"
 author_profile: true
