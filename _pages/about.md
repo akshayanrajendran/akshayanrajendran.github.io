@@ -5,10 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  slideShow:
-   -![akshayanspic1](/images/akshayanspic1.jpg)
-   -[akshayanspic2](/images/akshayanspic2.jpg)
-   -/assets/images/image3.jpg
+  
 ---
 
 👨‍💻 I'm a Computer Engineering Freshman at Toronto Metropolitan University, Canada
