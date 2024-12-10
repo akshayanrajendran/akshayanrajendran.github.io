@@ -31,6 +31,17 @@ carousels:
 
 ⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
 
+##  Book Recommendations 📕 (Fantastic must-reads)
+
+1. Atomic Habits - James Clear
+
+2. The Psychology of Money - Morgan Housel
+
+3. Elon Musk - Ashlee Vance
+
+4. Feel-Good Productivity - Ali Abdaal
+
+
 
 
 
