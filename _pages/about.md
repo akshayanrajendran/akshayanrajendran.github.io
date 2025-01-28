@@ -22,7 +22,8 @@ carousels:
 
 ---
 
-👨‍💻 I am a Computer Engineering freshman at Toronto Metropolitan University in Canada
+ 
+⚡I am an Electrical Engineering freshman at The University of Sydney, Australia 
 
 
 🚀 I have a keen interest in CS, AI, and Aerospace, aspiring to do research in these sectors in the future.
@@ -30,6 +31,10 @@ carousels:
 🎵 I am also an classical carnatic percussionist (indian music) and a national level quizzer.
 
 ⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
+
+🇯🇵 I'm currently learning Japanese! I speak English, Tamil, Hindi and a little bit of Malayalam. 
+
+
 
 ##  Book Recommendations 📕 (Fantastic must-reads)
 
