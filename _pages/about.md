@@ -23,12 +23,12 @@ carousels:
 ---
 
  
-⚡I am an Electrical Engineering freshman at The University of Sydney, Australia 
+⚡I am an Electrical and Computer Engineering freshman at The University of Sydney, Australia 
 
 
 🚀 I have a keen interest in CS, AI, and Aerospace, aspiring to do research in these sectors in the future.
 
-🎵 I am also an classical carnatic percussionist (indian music) and a national level quizzer.
+🎵 I am also an classical carnatic percussionist (indian music) and a quizzer.
 
 ⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
 
