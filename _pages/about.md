@@ -73,7 +73,7 @@ redirect_from:
 
 
 
-## Some Photos :D (attempt to document stuff)
+/## Some Photos :D (attempt to document stuff)
 
 
 
