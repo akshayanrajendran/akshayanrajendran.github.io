@@ -9,10 +9,10 @@ redirect_from:
 
 
 
-carousels:
-  - images: 
-    - image: /images/akshayanspic1.jpg
-    - image: /images/akshayanspic2.jpg
+#arousels:
+  #- images: 
+    #- image: /images/akshayanspic1.jpg
+    #- image: /images/akshayanspic2.jpg
     #- #image: /uploads/slider/image3.jpg
     #- #image: /uploads/slider/image4.jpg
     #- #image: /uploads/slider/image5.jpg
@@ -23,7 +23,7 @@ carousels:
 ---
 
  
-⚡I am an Electrical and Computer Engineering freshman at The University of Sydney, Australia 
+⚡I am a Computer Engineering freshman at Toronto Metropolitan University, Canada
 
 
 🚀 I have a keen interest in CS, AI, and Aerospace, aspiring to do research in these sectors in the future.
