@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-#arousels:
+#carousels:
   #- images: 
     #- image: /images/akshayanspic1.jpg
     #- image: /images/akshayanspic2.jpg
@@ -52,32 +52,13 @@ redirect_from:
 
 
 
+<!-- 
+Some Photos :D (attempt to document stuff)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/## Some Photos :D (attempt to document stuff)
-
-
-
-  {% include carousel.html height="50 unit=%"
+{% include carousel.html height="50 unit=%"
 duration="7" number="1" %}
-  {% include carousel.html height="50" unit="%" 
+{% include carousel.html height="50" unit="%" 
 duration="7" number="2" %}
+
+Uncomment this section to re-enable the photo carousels.
+-->
