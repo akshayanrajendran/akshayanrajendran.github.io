@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink:C:\Users\aksha\Documents\GitHub\akshayanrajendran.github.io\files\CV (2025).pdf
 author_profile: true
 redirect_from:
-  - /resume
+  C:\Users\aksha\Documents\GitHub\akshayanrajendran.github.io\files\CV (2025).pdf
 ---
 
 {% include base_path %}
