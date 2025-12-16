@@ -5,7 +5,7 @@ permalink: /projectswriteups/
 
 <iframe 
     src="https://laced-wheel-ec3.notion.site/ebd//2cbe9b2cf63780aaa1b4f288ed62caa7"
-    width="100%" 
+    width="175%" 
     height="1000px" 
     frameborder="1" 
     allowfullscreen
