@@ -350,10 +350,9 @@ compress_html:
     envs: development
 
 navigation:
-  - title: CV
+  - title: "CV"
     url: /cv/
-  - title: Reads
+  - title: "Reads"
     url: /reads/
-  - title: Projects & Technical Write-ups
-    url: /projects&writeups/
-```
+  - title: "Projects & Technical Write-ups"
+    url: /projectswriteups/
