@@ -23,16 +23,14 @@ redirect_from:
 ---
 
  
-⚡I am a Computer Engineering freshman at Toronto Metropolitan University, Canada
+⚡I am a First-Year Computer Engineering student at Toronto Metropolitan University, Canada
 
+🚀 I have a keen interest in AI/Ml, Finance, Business and Aerospace, aspiring to do delve into these sectors in the future.
 
-🚀 I have a keen interest in CS, AI, and Aerospace, aspiring to do research in these sectors in the future.
-
-🎵 I am also an classical carnatic percussionist (indian music) and a quizzer.
+🎵 I am also an classical carnatic percussionist (indian music) and national level quizzer.
 
 ⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
-
-🇯🇵 I'm currently learning Japanese! I speak English, Tamil, Hindi and a little bit of Malayalam. 
+ 
 
 
 
