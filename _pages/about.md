@@ -30,6 +30,12 @@ redirect_from:
 🎵 I am also an classical carnatic percussionist (indian music) and national level quizzer.
 
 ⚙️ As a creative and determined individual, I am committed to explore and learn more in the domain of science and technology.
+
+
+
+
+
+
  
 
 
