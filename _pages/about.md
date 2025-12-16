@@ -25,7 +25,7 @@ redirect_from:
  
 ⚡I am a First-Year Computer Engineering student at Toronto Metropolitan University, Canada
 
-🚀 I have a keen interest in AI/Ml, Finance, Business and Aerospace, aspiring to do delve into these sectors in the future.
+🚀 I have a keen interest in AI/ML, Finance, Business and Aerospace, aspiring to do delve into these sectors in the future.
 
 🎵 I am also an classical carnatic percussionist (indian music) and national level quizzer.
 
