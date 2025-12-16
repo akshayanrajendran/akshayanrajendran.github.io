@@ -5,12 +5,18 @@
 # prevent it from being included in the site.
 
 main: 
-  - title: "CV"
-    url: /cv/
-    url: /files/AkshayanR.pdf
+- title: "Projects and Technical Write-ups"
+  url: /projects/
+  url: /
 
-  - #title: "About me"
-    #url: /portfolio/
+- title: "Reads"
+  url: /reads/
+  url: /reads/
+
+- title: "CV"
+  url: /cv/
+  url: /files/AkshayanR.pdf
+
         
   - #title: "Blog Posts"
     #url: /year-archive/
