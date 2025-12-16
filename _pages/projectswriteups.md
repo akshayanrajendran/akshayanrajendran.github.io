@@ -1,6 +1,6 @@
 ---
 title: "Projects & Technical Writeups"
-permalink: /projects/
+permalink: /projectswriteups/
 ---
 
 <iframe 
