@@ -9,11 +9,11 @@ main:
   url: /projectswriteups/
 
 - title: "Reads"
-  url:  /reads/
+  url: /reads/
   
 - title: "CV"
-  url: /cv/
-  url: /files/AkshayanR.pdf
+url: /files/AkshayanR.pdf
+  
 
         
   - #title: "Blog Posts"
