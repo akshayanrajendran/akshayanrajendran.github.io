@@ -6,13 +6,11 @@
 
 main: 
 - title: "Projects and Technical Write-ups"
-  url: /projects/
-  url: /
+  url: /projectswriteups/
 
 - title: "Reads"
-  url: /reads/
-  url: /reads/
-
+  url:  /reads/
+  
 - title: "CV"
   url: /cv/
   url: /files/AkshayanR.pdf
