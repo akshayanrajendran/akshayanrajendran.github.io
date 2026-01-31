@@ -350,7 +350,7 @@ compress_html:
     envs: development
 
 navigation:
-  - title: "Resume"
+  - title: "CV"
     url: /cv/
   - title: "Reads"
     url: /reads/
