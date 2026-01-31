@@ -4,12 +4,6 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
 main:
 - title: "Projects and Technical Write-ups"
   url: /projectswriteups/
@@ -17,9 +11,8 @@ main:
 - title: "Reads"
   url: /reads/
 
-- title: "CV"
+- title: "Resume"
   url: /cv/
 
-
-  - #title: "Blog Posts"
-    #url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
