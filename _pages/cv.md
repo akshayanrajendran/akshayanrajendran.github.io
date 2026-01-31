@@ -1,7 +1,6 @@
 ---
-title: "CV"
+title: "Resume"
 permalink: /cv/
 ---
-<embed src="/files/AkshayanR.pdf" width="100%" height="600px" type="application/pdf">
-
+<meta http-equiv="refresh" content="0;url=/files/AkshayanR.pdf">
 

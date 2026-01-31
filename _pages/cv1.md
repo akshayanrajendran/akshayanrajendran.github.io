@@ -5,7 +5,7 @@ permalink: /cv1/
 author_profile: true
 ---
 
-[Download my CV (2025)](/files/Rajendran, Akshayan (CV).pdf)
+#[Download my CV (2025)](/files/Rajendran, Akshayan (CV).pdf)
 
 {% include base_path %}
 
