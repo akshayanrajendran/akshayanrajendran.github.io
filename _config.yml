@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "akshayannotfound"
+  instagram        : "aksh7yan"
   lastfm           : # Username
   linkedin         : "akshayan-rajendran-6a998b301"
   mastodon         : # URL
@@ -351,7 +351,7 @@ compress_html:
 
 navigation:
   - title: "CV"
-    url: /files/AkshayanR.pdf/
+    url: /files/AkshayanR.pdf
   - title: "Reads"
     url: /reads/
   - title: "Projects & Technical Write-ups"
